@@ -23,5 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://imgflip.com/gif/3piio9"><img src="https://i.imgflip.com/3piio9.gif" title="login"/></a>
+Login
+<a href="https://imgflip.com/gif/3piiu7"><img src="https://i.imgflip.com/3piiu7.gif" title="login"/></a>
 
