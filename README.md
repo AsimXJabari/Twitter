@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://giphy.com/embed/KB1TAXs4ebx3eoDHXB' title='Login' width='236' height='480' alt='Video Walkthrough' />
+<a href="https://imgflip.com/gif/3piio9"><img src="https://i.imgflip.com/3piio9.gif" title="login"/></a>
 
